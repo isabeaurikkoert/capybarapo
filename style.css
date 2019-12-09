@@ -2,11 +2,11 @@ html, body {
   background-color: #f3f3f3;
   padding: 0;
   margin: 0;
-  font-family: open sans;
  }
 
 .page {
   background-color: white;
+  font-family: open sans;
 }
 
 .nav-header {
@@ -45,6 +45,7 @@ html, body {
 
 .page-content {
    margin-left: 200px;
+  max-width: 70ch;
 }
 
 
